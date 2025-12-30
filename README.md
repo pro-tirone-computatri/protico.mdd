@@ -176,7 +176,7 @@ Es gibt einen Github spezifischen "Flavor" von Markdown ([GFM](https://github.gi
   * Der Konverter `pandoc` mit `Eisvogel`-Template interpretiert die Fußnotenmarkanten nicht.
 * **Bilder:**
   * *Pandoc* mit *Eisvogel-Template* verschiebt mit `style="float:right"` gesetzte Bilder manchmal unerwartet,
-* **Inhaltsverzeichnis:*`
+* **Inhaltsverzeichnis:**
   * *Markdown All In One* für `VSCODE` bietet die Option, das Inhaltsverzeichnis automatisch zu generieren. Allerdings kommt der Algorithmus gelegentlich durcheinander. Deshalb emphielt es sich, ein `<!-- no token -->` vor die Inhaltsverzeichnisliste zu setzen.
   * Der Konverter `pandoc` setzt die Einträge eines Inhaltsverzeichnis nur richtig, wenn der Name des Kapitels mit der Kapitelüberschrift - unbesehen der Groß- bzw. Kleinschreibung - übereinstimmt:
     * Überschrift: `## B.) <a id="grenzen"></a>Grenzen`
