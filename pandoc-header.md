@@ -4,7 +4,7 @@ author: [Karsten Reincke]
 date: 2025-08-22
 keywords: [ selbstrefenrentielles Markdownbeispiel]
 header-left: "\\theauthor"
-header-center: "proMdTutorials"
+header-center: "pro-tirone-computatri/protico.mdd"
 header-right: "\\thetitle" 
 footer-left: "\\thedate"
 footer-center: "\\hspace{1cm}"
